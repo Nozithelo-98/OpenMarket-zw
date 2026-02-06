@@ -32,3 +32,30 @@ I am open to collaborations on civic tech, digital governance, and social innova
 
 ## 📄 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+## 📱 User Experience (UX) Mockup: The "OpenMarket" Bot
+To ensure inclusivity for vendors with varying levels of digital literacy, Project OpenMarket proposes a **WhatsApp-based Conversational UI**. This bypasses the need for high-storage apps and works on both basic smartphones and feature phones.
+
+### **Proposed Interaction Flow: License Renewal**
+
+**User:** `Hi`  
+**OpenMarket Bot:** > 👋 Welcome to **Project OpenMarket Bulawayo**.  
+> I am your Digital Licensing Assistant. How can I help you today?  
+>  
+> 1️⃣ **Renew My License** > 2️⃣ **Check Application Status** > 3️⃣ **Report an Issue** > 4️⃣ **Help & FAQs** **User:** `1` (Renew My License)  
+**OpenMarket Bot:** > Please enter your **Stall Number** (e.g., EG-402) or scan the **QR Code** on your current paper permit.  
+
+**User:** `EG-402`  
+**OpenMarket Bot:** > ✅ Stall EG-402 identified.  
+> **Holder:** Sipho Moyo  
+> **Market:** Egodini  
+> **Fee Due:** $15.00  
+>  
+> Select Payment Method:  
+> 🟦 **EcoCash** > 🟨 **InnBucks** > ⬜ **Bank Transfer** **User:** (Selects EcoCash)  
+**OpenMarket Bot:** > Sending prompt to your phone... 📲  
+> *Once paid, you will receive your Digital Permit (QR Code) instantly in this chat.* ---
+
+### **UX Design Principles**
+* **Reduced Cognitive Load:** Using numbered menus instead of requiring the user to type long sentences.
+* **Low Data Footprint:** Text-based interaction ensures accessibility even on edge (2G/3G) networks.
+* **Instant Gratification:** Removing the "4-hour queue" by providing a digital receipt in seconds.
