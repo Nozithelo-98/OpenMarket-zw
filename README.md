@@ -12,13 +12,13 @@
 ---
 
 ## 🚀 About the Architect
-**Nozithelo Moyo** *First-Class Global Media Scholar | Strategic Communications Expert* Recipient of the **2023 CSO Best Practice & Innovation Award**. Focused on using digital narratives to drive systemic change in the Global South.
+**Nozithelo Moyo** *Distinction in Global Media Industries Scholar | Strategic Communications Expert* Recipient of the **2023 CSO Best Practice & Innovation Award**. Focused on using digital narratives to drive systemic change in the Global South.
 
 ---
 
 ## 📂 Repository Structure
 * `audit/`: Contains field research data and stakeholder interview summaries.
-* `policy-brief/`: A 2-page strategic document for municipal leaders.
+* `policy-brief/`: A strategic document for municipal leaders.
 * `mockups/`: Visual designs of the proposed user interface.
 
 ---
